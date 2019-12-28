@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+28/12/2019
 
 ### Project Title
-Replace the Project Title
+Bike Sharing Project with Python
 
 ### Description
-Describe what your project is about and what it does
+Statistics for the Bike Sharing Dataset.
+
 
 ### Files used
-Include the files used
+- Only *bikeshare_project.py*
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+No Credits
