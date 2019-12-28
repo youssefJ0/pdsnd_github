@@ -7,11 +7,9 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 			  
-months = ('january', 'february', 'march', 
-          'april', 'may', 'june')
+months = ('january', 'february', 'march', 'april', 'may', 'june')
 
-weekdays = ('sunday', 'monday', 'tuesday', 
-            'wednesday', 'thursday', 'friday', 'saturday')
+weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday')
 
 
 def get_filters():
@@ -62,7 +60,7 @@ def load_data(city, month, day):
         (str) month - the name of the month to filter by, or "all" to apply no month filter
         (str) day - the name of the day of week to filter by, or "all" to apply no day filter
     Returns:
-        df - Pandas DataFrame containing city data filtered by month and day
+        df - A Pandas DataFrame containing city data filtered by month and day
     """
 
     print("\nThe program is loading the data for the filters of your choice.")
