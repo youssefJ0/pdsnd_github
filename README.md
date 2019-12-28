@@ -5,7 +5,7 @@
 Bike Sharing Project with Python
 
 ### Description
-Statistics for the Bike Sharing Dataset.
+Statistical Analysis for the Bike Sharing Dataset.
 
 
 ### Files used
